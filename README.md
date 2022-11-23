@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nithya
-- 👀 I’m interested in genomics(Next generation Seq Aalysis),Proteomics
+- 👀 I’m a research scholar with interested in genomics(Next generation Seq Aalysis),Proteomics
 - 🌱 I’m currently learning Machine Learning techniques
 - 💞️ I’m looking to collaborate on RNA seq down stream data analysis
 - 📫 How to reach me 19phzof001@avinuty.ac.in
